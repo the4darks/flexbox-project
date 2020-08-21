@@ -1,0 +1,48 @@
+.u-bottom-small{
+    margin-bottom: 2rem;
+}
+.button {
+    border: none;
+    padding: 1rem;
+    border-radius: 14px;
+    width: 18.4rem;
+    transition: all,  0.2s ease-in ;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.button:focus {
+    outline: none;
+    transform: translateY(3px);
+}
+
+.btn--blue {
+    background-color: #337FCB;
+}
+.btn--facebook {
+    color: #4867AA;
+}
+.btn--twitter {
+    color: #1DA1F2;
+}
+.btn--instagram{
+    color: purple;
+}
+.btn--youtube {
+    color: #FF0000;
+}
+.btn--dark{
+    background-color: #3F3E3B;
+    display: block;
+    width: 100%;
+}
+.text--uppercase{
+    text-transform: uppercase;
+}
+.text--white {
+    color: #fff;
+}
+
+.text--black {
+    color: #000;
+}
